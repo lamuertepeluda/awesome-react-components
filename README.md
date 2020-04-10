@@ -156,6 +156,7 @@ _Display data in charts / graphs / diagrams_
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 - [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React
+- [nivo](https://nivo.rocks/) - Supercharged React components to easily build dataviz apps, built on top of d3
 
 ### Tree
 
